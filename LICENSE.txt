@@ -1,0 +1,24 @@
+Copyright (c) 2024 Junior Nguh
+===========
+Animal Word Guessing Game 
+MIT License
+
+The Word Guessing Game is a python licensed software. It is available under the terms
+of the MIT license. The full license agreement is included below. This code is also
+licensed to Python Software Foundation (PSF) as it was used as the main Contributor in this Agreement.
+
+Permission is hereby granted, free of charge, to anyone/person obtaining
+a copy of this python code and associated documentation files (in the"Python Code"). Users are to use the software without restriction, including
+without limitations with the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+Copy rights notice above and below are grounds for the permission notice and shall be enforced which are, but not limited to all copies orl portions of the Software:
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES. STEALING OR TAKING CREDIT FOR THIS WORK IS PUNISHABLE UP TO A ($5000) FINE IN NO EVENT SHALL THE USER INFRINGE OR  COPYRIGHT. USERS ARE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,  THAT THEY DECIDE TO USE THIS SOFTWARE FOR AND IS IN NO WAY THE FAULT OF THE CREATOR. USE AT THE USER'S OWN DISCRETION.
+
+===========
+Copyright (c) 2024 Junior Nguh. ALL RIGHTS RESERVED
+This Academic Free License applies to any original work that wasn't edited by the creator but rather the user who has placed the following notice immediately following the copyright notice for the Original Work
